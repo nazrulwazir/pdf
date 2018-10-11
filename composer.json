@@ -1,5 +1,5 @@
 {
-	"name": "gears/pdf",
+	"name": "nazrulwazir/pdf",
 	"description": "A PDF builder using HTML or DOCX templates.",
 	"homepage": "https://github.com/phpgearbox/pdf",
 	"keywords": ["pdf", "docx", "template", "builder", "converter"],
@@ -15,7 +15,6 @@
 	{
 		"gears/di": "*",
 		"gears/string": "^0.6.0",
-		"symfony/process": "2.*",
 		"symfony/filesystem": "2.*",
 		"jakoch/phantomjs-installer": "1.9.8"
 	},
