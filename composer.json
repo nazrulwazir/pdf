@@ -20,7 +20,6 @@
 	"require-dev":
 	{
 		"codegyre/robo": "*",
-		"phpunit/phpunit": "4.*",
 		"guzzlehttp/guzzle": "4.*",
 		"sgh/pdfbox": "dev-master",
 		"google/apiclient": "1.*",
