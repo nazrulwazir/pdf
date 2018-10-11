@@ -19,7 +19,6 @@
 	},
 	"require-dev":
 	{
-		"nazrulwazir/robo": "*",
 		"guzzlehttp/guzzle": "^6.0",
 		"sgh/pdfbox": "dev-master",
 		"google/apiclient": "2.*",
